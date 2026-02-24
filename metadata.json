@@ -1,0 +1,9 @@
+{
+  "name": "众包配送平台 (Crowdsourced Delivery Platform)",
+  "description": "全方位的众包外卖配送系统，包含管理后台、商家端、骑手端和顾客端。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
